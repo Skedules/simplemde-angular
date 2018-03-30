@@ -19,7 +19,7 @@
     "!src/*"
   ],
   "dependencies": {
-    "simplemde": "^1.0.0",
+    "simplemde": "Skedules/simplemde-markdown-editor",
     "angular": "^1.3.0"
   },
   "version": "0.0.3"

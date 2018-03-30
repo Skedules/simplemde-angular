@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hansottowirtz/simplemde-angular.git"
+    "url": "git+https://github.com/Skedules/simplemde-angular.git"
   },
   "author": "Hans Otto Wirtz <hansottowirtz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hansottowirtz/simplemde-angular/issues"
+    "url": "https://github.com/Skedules/simplemde-angular/issues"
   },
-  "homepage": "https://github.com/hansottowirtz/simplemde-angular"
+  "homepage": "https://github.com/Skedules/simplemde-angular"
 }
